@@ -1,0 +1,11 @@
+name: BadboysMOTD
+version: 0wrqz33b
+main: net.minecraftbadboys.motd.Kernel
+author: ByakuyaSora
+depends:
+  - AdvancedBan
+permissions:
+  badboysmotd.op:
+    default: op
+  badboysmotd:maintenance.bypass:
+    default: op

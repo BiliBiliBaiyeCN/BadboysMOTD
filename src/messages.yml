@@ -1,0 +1,9 @@
+Maintenance-On: "&7Successfully &aenabled &7maintenance mode!"
+Maintenance-Off: "&7Successfully &cdisabled &7maintenance mode!"
+
+Maintenance-Already-On: "&cMaintenance mode is already &nON!"
+Maintenance-Already-Off: "&cMaintenance mode is already &nOFF!"
+
+Reloaded-Yaml-Files: "&aSuccessfully reloaded the yaml files."
+
+no-permission: "&cI'm sorry, but you don't have the correct permission to perform this command."

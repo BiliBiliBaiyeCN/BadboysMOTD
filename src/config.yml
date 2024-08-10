@@ -1,0 +1,25 @@
+First-Normal-Motd: "            &eExample Network &c[1.8 - 1.21]"
+Second-Normal-Motd:
+  - "  &e&lPLEASE CONSIDER DONATE US"
+  - "  &e&lBEDWARS&f&l,&b&lSKYWARS&f&l,&e&lUHC &5&lUNDER DEV!"
+  - "  &b&lRUNNING ON BADBOYSMOTD PLUGIN!"
+
+Maintenance-mode: false
+First-Maintenance-Motd: "            &eExample Network &c[1.8 - 1.21]"
+Second-Maintenance-Motd: "      &cThe network is currently under maintenance"
+Maintenance-Version-Name: "MAINTENANCE"
+Maintenance-Kick-Message:
+  - "&cYou are not able to access this network"
+  - "&7"
+  - "&cThis network is currently under maintenance"
+  - "&f"
+  - "&7We apologize for any inconvenience caused by this maintenance."
+  - "&7Please consult the administrator or pay attention"
+  - "&7to the official news for relevant compensation."
+  - "&f"
+  - "&eNeeded Support? Please contact: "
+  - "&bCONTACT WAY: &n373311963"
+  - "&f"
+  - "&eServer Management Group"
+
+Banned-Second-Motd: "    &4YOU ARE BANNED ON THIS NETWORK!"
