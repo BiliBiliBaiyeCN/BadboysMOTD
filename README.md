@@ -5,7 +5,7 @@ The last edition of BadboysMOTD was released.
 The source code of the last version of BadboysMOTD was released. The team has decided that future updates will no longer be synced to other forums such as SpigotMC. Because we will add exclusive features inside the plugin (not popular).
 
 ## Runtime
-Proxy: BungeeCord 1.21
+Proxy: BungeeCord 1.21\n
 Depend: AdvancedBan
 
 ## Team of Developers
